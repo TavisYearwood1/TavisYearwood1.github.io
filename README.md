@@ -4,8 +4,8 @@
 </head>
 <body> 
   <h1>Tavis Yearwood</h1>
-  <h2>ta313579@ucf.edu</h2>
-  <h2>https://www.linkedin.com/in/tavisyearwood/</h2>
+  <h2>Email: ta313579@ucf.edu</h2>
+  <h2>LinkedIn: https://www.linkedin.com/in/tavisyearwood/</h2>
   <p>Entry Level IT professional looking for a full time position to assist in networking and creating conncetion solutons for enterprise systems.</p>
 
   <h1>Education</h1>
