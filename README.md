@@ -1,7 +1,5 @@
 # TavisYearwood1.github.io
-<head>
-  
-</head>
+
 <body> 
   <h1>Tavis Yearwood</h1>
   <h2>Email: ta313579@ucf.edu</h2>
