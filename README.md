@@ -22,6 +22,6 @@
   <p> Customer Service </p>
   <p> Teamwork and Collaboration </p>
 
-  <a href="client-server.html">Client Server Project</a>
+  <a href="Project1.html">Client Server Project</a>
 </body>
 
