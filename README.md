@@ -21,7 +21,8 @@
   <p> Communication </p>
   <p> Customer Service </p>
   <p> Teamwork and Collaboration </p>
-
-  <a href="Project1.html">Client Server Project</a>
+  
+<a href="Project1.html">Client Server Project</a>
+<a href="Project2.html">Event Based Programming</a>
 </body>
 
